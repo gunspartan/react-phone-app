@@ -1,0 +1,9 @@
+.call-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(../img/icons8-phone-48.png);
+  height: 48px;
+  width: 48px;
+  margin-left: 40%;
+}

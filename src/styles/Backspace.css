@@ -1,0 +1,9 @@
+.backspace-button {
+  display: flex;
+  background: url(../img/icons8-clear-symbol-24.png);
+  height: 24px;
+  width: 24px;
+  justify-content: center;
+  align-self: center;
+  margin-left: 25%;
+}
